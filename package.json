@@ -31,18 +31,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacobra19/senzu-shuffle.git"
+    "url": "git+https://github.com/yakovify/senzu-shuffle.git"
   },
   "author": {
     "name": "Yakov Rakhamimov",
     "email": "jacobra19@gmail.com",
-    "url": "https://github.com/jacobra19"
+    "url": "https://github.com/yakovify"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jacobra19/senzu-shuffle/issues"
+    "url": "https://github.com/yakovify/senzu-shuffle/issues"
   },
-  "homepage": "https://github.com/jacobra19/senzu-shuffle#readme",
+  "homepage": "https://github.com/yakovify/senzu-shuffle#readme",
   "keywords": [
     "shuffle",
     "deterministic",
